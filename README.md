@@ -1,3 +1,3 @@
 # calculator
 Calculator Project
-https://weslleyg2.github.io/calculator/
+https://weslleyg2.github.io/calculator/calculator.html
